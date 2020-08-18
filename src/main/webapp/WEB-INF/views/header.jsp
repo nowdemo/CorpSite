@@ -39,7 +39,8 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/jobs">Jobs</a>
+                                    <!-- STRY0010001 -->
+                                    <a href="/jobs">Career</a>
                                 </li>
                                 <li>
                                     <a href="#">
