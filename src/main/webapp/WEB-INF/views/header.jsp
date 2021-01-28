@@ -40,7 +40,7 @@
                                 </li>
                                 <li>
                                     <!-- STRY0010001 -->
-                                    <a href="/jobs">직업</a>
+                                    <a href="/jobs">Career</a>
                                 </li>
                                 <li>
                                     <a href="#">
